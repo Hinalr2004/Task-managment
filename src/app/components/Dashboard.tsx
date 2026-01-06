@@ -65,7 +65,7 @@ export function Dashboard({ onNavigateToTasks }: DashboardProps) {
       {/* Welcome Section */}
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">Welcome back, John! 👋</h1>
+          <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">Welcome back, Hinal! 👋</h1>
           <p className="text-gray-600 dark:text-gray-400 mt-1">Here's what's happening with your projects today.</p>
         </div>
         <div className="text-right text-sm text-gray-500 dark:text-gray-400">
